@@ -36,7 +36,7 @@ The **User Microservice** is responsible for handling all user-related operation
 
 ## Tech Stack
 
-- **Programming Language:** *(Specify language, e.g., Node.js/Python/Java)*
+- **Programming Language:** Java
 - **CI/CD:** Jenkins, [Jenkins Shared Library](https://github.com/BharathKumarReddy2103/jenkins-shared-library)
 - **Containerization:** Docker
 - **Orchestration:** Kubernetes (AWS EKS)
